@@ -1,0 +1,7 @@
+c:\users\psavine\documents\visual studio 2017\Projects\TaskClient\TaskClient\bin\Debug\TaskClient.dll
+c:\users\psavine\documents\visual studio 2017\Projects\TaskClient\TaskClient\bin\Debug\TaskClient.pdb
+c:\users\psavine\documents\visual studio 2017\Projects\TaskClient\TaskClient\obj\Debug\TaskClient.csprojResolveAssemblyReference.cache
+c:\users\psavine\documents\visual studio 2017\Projects\TaskClient\TaskClient\obj\Debug\TaskClient.dll
+c:\users\psavine\documents\visual studio 2017\Projects\TaskClient\TaskClient\obj\Debug\TaskClient.pdb
+C:\Users\psavine\Documents\Visual Studio 2017\Projects\TaskClient\TaskClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\psavine\Documents\Visual Studio 2017\Projects\TaskClient\TaskClient\bin\Debug\Newtonsoft.Json.xml

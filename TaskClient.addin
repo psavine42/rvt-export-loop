@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command TaskClient</Text>
+    <Description>Some description for TaskClient</Description>
+    <Assembly>TaskClient.dll</Assembly>
+    <FullClassName>TaskClient.Command</FullClassName>
+    <ClientId>e9ad9841-ad4f-45c3-80cb-4006e67d300c</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application TaskClient</Name>
+    <Assembly>TaskClient.dll</Assembly>
+    <FullClassName>TaskClient.App</FullClassName>
+    <ClientId>2c2e63d5-725f-4012-b0ca-fff5dc477069</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
